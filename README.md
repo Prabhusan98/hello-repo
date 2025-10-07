@@ -1,3 +1,3 @@
 # hello-repo
-My first project 
-This is my first edit on this 
+create or replace table My_tab
+(ID  int , name varchar );
